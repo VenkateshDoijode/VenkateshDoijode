@@ -103,7 +103,7 @@ I design and lead automation strategy across UI, API, and backend layers — wit
 
 ## Education
 
-**B.E., Computer Science & Engineering** (2011 – 2015)
+**B.E., Computer Science & Engineering** 
 Sree Sastha Institute of Engineering and Technology, Chennai
 
 ---
