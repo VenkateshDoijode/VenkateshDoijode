@@ -109,6 +109,20 @@ Anna University, Chennai, Tamil Nadu, India
 
 ---
 
+## Key Contributions & Innovations
+
+| Contribution                     | Description                                                                                   |
+| --------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Eliza AI Agent**                 | Custom AI agent for rapid access to transactional and hydration data, eliminating manual lookup |
+| **In-Sprint Automation Leadership**| Client appreciation at BNY for consistent on-time delivery and improved sprint quality           |
+| **DAT File Generation Utility**    | Automation utility eliminating manual effort — submitted to Wipro Pragati innovation program     |
+| **AI-Assisted Code Refactoring**   | Applied Windsurf AI to refactor Selenium/Python scripts for readability and stability            |
+| **Property-Based Test Suite**      | Introduced Hypothesis-driven testing for edge-case discovery in transaction validation logic     |
+| **Drift & Robustness Monitoring**  | Applied Evidently AI and Giskard to track model behavior on production data                      |
+| **Python Test Utility Library**    | Reusable utilities for data parsing, report generation, and API validation                       |
+
+---
+
 ## Contact
 
 | Channel   | Details                                                                    |
