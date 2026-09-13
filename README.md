@@ -37,7 +37,7 @@ I design and lead automation strategy across UI, API, and backend layers — wit
 
 **Languages** — Java · Python · TypeScript · SQL · Shell/Bash
 
-**UI Automation** — Selenium WebDriver · Selenium Grid · Appium · Playwright · WebdriverIO
+**UI Automation** — Selenium WebDriver · Selenium Grid · Appium · Playwright · WebdriverIO · Webwright 
 
 **API & Backend Testing** — REST Assured · Postman · GraphQL · Contract Testing · Microservices Testing
 
@@ -45,9 +45,11 @@ I design and lead automation strategy across UI, API, and backend layers — wit
 
 **Performance** — JMeter · Gatling · k6
 
+**Desktop Automation** — pywinauto · WinAppDriver · AutoIt · SikuliX · Winium
+
 **CI/CD & DevOps** — Jenkins · Docker · Kubernetes (AKS) · Azure DevOps · GitHub Actions
 
-**Databases** — Oracle SQL · PostgreSQL · PL/SQL · CouchDB
+**Databases** — Oracle SQL · MySQL · PostgreSQL · PL/SQL · CouchDB
 
 **Cloud** — Azure (AKS Certified) · AWS (Generative AI Essentials)
 
@@ -59,7 +61,7 @@ I design and lead automation strategy across UI, API, and backend layers — wit
 
 ## Experience
 
-### Lead SDET — Automation Architect · Wipro Technologies
+### AI Automation Architect · Wipro Technologies
 **Client: Bank of New York (BNY)** — *Jun 2021 – Present*
 
 - Built a modular automation framework (Java + Selenium + TestNG), cutting regression runtime from 4 hours to under 45 minutes and reducing manual effort by 70%.
