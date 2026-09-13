@@ -1,0 +1,117 @@
+# Venkateshwara Doijode
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4c1?style=flat-square&logo=github)](https://VenkateshDoijode.github.io)
+[![Role](https://img.shields.io/badge/Role-Senior%20SDET%20%7C%20Automation%20Architect-0a66c2?style=flat-square)](https://linkedin.com/in/venkateshwara-doijode)
+[![Experience](https://img.shields.io/badge/Experience-9%20Years-orange?style=flat-square)](#)
+
+Senior SDET and Automation Architect with 9 years of experience building test automation frameworks and quality engineering platforms for fintech, banking, and healthcare systems.
+
+---
+
+## About
+
+I design and lead automation strategy across UI, API, and backend layers — with a focus on framework architecture, CI/CD integration, and reducing regression cycle time without sacrificing coverage. Currently applying AI-assisted tooling (test generation, self-healing locators, anomaly detection) to speed up release cycles on large-scale banking platforms.
+
+- **Current role:** Lead SDET — Automation Architect, Wipro Technologies (client: Bank of New York)
+- **Location:** Chennai, Tamil Nadu, India
+- **Email:** venkateshdoijode1@gmail.com
+- **LinkedIn:** [venkateshwara-doijode](https://linkedin.com/in/venkateshwara-doijode)
+- **Portfolio:** [VenkateshDoijode.github.io](https://VenkateshDoijode.github.io)
+
+---
+
+## Impact
+
+| Metric                              | Result                     |
+| ------------------------------------ | --------------------------- |
+| Manual regression effort             | ↓ 70%                        |
+| Regression suite runtime             | 4 hrs → under 45 min          |
+| Release verification time            | ↓ 60%                          |
+| Flaky test rate                      | ↓ 40%                            |
+| Team automation coverage (6 months)  | ↑ 35%                              |
+| UAT defect leakage                   | ↓ 30–50%                            |
+
+---
+
+## Technical Stack
+
+**Languages** — Java · Python · TypeScript · SQL · Shell/Bash
+
+**UI Automation** — Selenium WebDriver · Selenium Grid · Appium · Playwright · WebdriverIO
+
+**API & Backend Testing** — REST Assured · Postman · GraphQL · Contract Testing · Microservices Testing
+
+**Frameworks** — TestNG · JUnit · Cucumber (BDD) · Pytest · Page Object Model · Data-Driven Testing
+
+**Performance** — JMeter · Gatling · k6
+
+**CI/CD & DevOps** — Jenkins · Docker · Kubernetes (AKS) · Azure DevOps · GitHub Actions
+
+**Databases** — Oracle SQL · PostgreSQL · PL/SQL · CouchDB
+
+**Cloud** — Azure (AKS Certified) · AWS (Generative AI Essentials)
+
+**AI/ML & LLM Testing** — Bias Testing · Drift Testing · Metamorphic Testing · Back-to-Back Testing · Robustness Testing · Property-Based Testing
+
+**AI/ML Testing Tools** — Deepchecks · Great Expectations · Giskard · Hypothesis · DeepEval · Evidently AI · Promptfoo
+
+---
+
+## Experience
+
+### Lead SDET — Automation Architect · Wipro Technologies
+**Client: Bank of New York (BNY)** — *Jun 2021 – Present*
+
+- Built a modular automation framework (Java + Selenium + TestNG), cutting regression runtime from 4 hours to under 45 minutes and reducing manual effort by 70%.
+- Built end-to-end API automation suites with REST Assured covering OAuth flows, headers, and complex JSON/XML payloads across distributed microservices.
+- Integrated automation into Jenkins CI/CD pipelines, cutting release verification time by 60%.
+- Applied AI-assisted refactoring (Windsurf AI) to improve script stability and reduce flaky tests by 40% via smart waits and retry logic.
+- Built an internal AI agent for fast lookup of transactional and hydration data, cutting manual analysis time.
+- Delivered mobile automation (Appium) across Android/iOS device configurations.
+- Built a DAT file generation utility, submitted to Wipro's internal innovation program.
+- Introduced property-based testing (Hypothesis) for edge-case discovery in transaction validation logic, surfacing bugs missed by example-based tests.
+- Applied drift and robustness testing (Evidently AI, Giskard) to monitor model behavior on production data as part of AI-augmented QA initiatives.
+- Mentored junior engineers, growing team automation coverage by 35% in 6 months.
+
+### Programming Analyst · Cognizant Technology Solutions
+**Client: Blue Cross and Blue Shield of North Carolina** — *May 2018 – May 2021*
+
+- Implemented AI-assisted test generation to expand coverage and cut manual design effort.
+- Built Docker-based containerized test environments for reproducible automation runs.
+- Applied shift-left practices with dev teams, reducing defect leakage by 30%.
+- Built automation for microservices/API-driven architectures, including contract testing.
+
+### Associate Software QA Engineer · ReDIM Group
+*Mar 2017 – May 2018*
+
+- Built and maintained Selenium (Java/TestNG) and Appium automation suites.
+- Performed REST API testing and contract validation; integrated into CI/CD.
+- Owned test planning, defect tracking (JIRA/ALM), and QA reporting.
+
+---
+
+## Certifications
+
+- Azure Kubernetes Service (AKS) — Microsoft Azure
+- Selenium with Java — Industry Certification
+- Generative AI Essentials on AWS
+- NoSQL — CouchDB
+- ISTQB Foundation Level
+- Playwright Automation
+
+---
+
+## Education
+
+**B.E., Computer Science & Engineering** (2011 – 2015)
+Sree Sastha Institute of Engineering and Technology, Chennai
+
+---
+
+## Contact
+
+| Channel   | Details                                                                    |
+| --------- | --------------------------------------------------------------------------- |
+| Email     | venkateshdoijode1@gmail.com                                                  |
+| LinkedIn  | [venkateshwara-doijode](https://linkedin.com/in/venkateshwara-doijode)       |
+| Portfolio | [VenkateshDoijode.github.io](https://VenkateshDoijode.github.io)            |
