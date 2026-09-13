@@ -114,6 +114,7 @@ Anna University, Chennai, Tamil Nadu, India
 | Contribution                     | Description                                                                                   |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **Eliza AI Agent**                 | Custom AI agent for rapid access to transactional and hydration data, eliminating manual lookup |
+| **Custom Jira–Zephyr MCP Server**  | Built a self-hosted MCP server to integrate Jira and Zephyr for a domain-specific enterprise Jira instance, since SmartBear's Remote Zephyr MCP (built for Zephyr Scale Cloud + Atlassian Cloud auth) couldn't authenticate against a custom-domain Data Center/Server setup |
 | **In-Sprint Automation Leadership**| Client appreciation at BNY for consistent on-time delivery and improved sprint quality           |
 | **DAT File Generation Utility**    | Automation utility eliminating manual effort — submitted to Wipro Pragati innovation program     |
 | **AI-Assisted Code Refactoring**   | Applied Windsurf AI to refactor Selenium/Python scripts for readability and stability            |
