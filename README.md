@@ -67,7 +67,7 @@ I design and lead automation strategy across UI, API, and backend layers — wit
 - Integrated automation into Jenkins CI/CD pipelines, cutting release verification time by 60%.
 - Applied AI-assisted refactoring (Windsurf AI) to improve script stability and reduce flaky tests by 40% via smart waits and retry logic.
 - Built an internal AI agent for fast lookup of transactional and hydration data, cutting manual analysis time.
-- Delivered mobile automation (Appium) across Android/iOS device configurations.
+- 
 - Built a DAT file generation utility, submitted to Wipro's internal innovation program.
 - Introduced property-based testing (Hypothesis) for edge-case discovery in transaction validation logic, surfacing bugs missed by example-based tests.
 - Applied drift and robustness testing (Evidently AI, Giskard) to monitor model behavior on production data as part of AI-augmented QA initiatives.
@@ -103,8 +103,8 @@ I design and lead automation strategy across UI, API, and backend layers — wit
 
 ## Education
 
-**B.E., Computer Science & Engineering** 
-Sree Sastha Institute of Engineering and Technology, Chennai
+**Bachelor of Engineering (B.E.) – Computer Science & Engineering** 
+Anna University, Chennai, Tamil Nadu, India 
 
 ---
 
