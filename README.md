@@ -13,7 +13,7 @@ Senior SDET and Automation Architect with 9 years of experience building test au
 I design and lead automation strategy across UI, API, and backend layers — with a focus on framework architecture, CI/CD integration, and reducing regression cycle time without sacrificing coverage. Currently applying AI-assisted tooling (test generation, self-healing locators, anomaly detection) to speed up release cycles on large-scale banking platforms.
 
 - **Current role:** Lead SDET — Automation Architect, Wipro Technologies (client: Bank of New York)
-- **Location:** Chennai, Tamil Nadu, India
+- **Current Location:** Chennai, Tamil Nadu, India
 - **Email:** venkateshdoijode1@gmail.com
 - **LinkedIn:** [venkateshwara-doijode](https://linkedin.com/in/venkateshwara-doijode)
 - **Portfolio:** [VenkateshDoijode.github.io](https://VenkateshDoijode.github.io)
