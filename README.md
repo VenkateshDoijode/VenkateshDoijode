@@ -20,16 +20,19 @@ I design and lead automation strategy across UI, API, and backend layers — wit
 
 ---
 
-## Impact
+## 📊 Key Impact Metrics
 
-| Metric                              | Result                     |
-| ------------------------------------ | --------------------------- |
-| Manual regression effort             | ↓ 70%                        |
-| Regression suite runtime             | 4 hrs → under 45 min          |
-| Release verification time            | ↓ 60%                          |
-| Flaky test rate                      | ↓ 40%                            |
-| Team automation coverage (6 months)  | ↑ 35%                              |
-| UAT defect leakage                   | ↓ 30–50%                            |
+| Achievement                        | Impact                         |
+| ----------------------------------- | ------------------------------ |
+| Manual regression effort reduction | **70%**                        |
+| Regression suite runtime           | **4 hours → under 45 minutes** |
+| Release verification time          | **60% faster**                 |
+| Flaky test reduction               | **40% fewer**                  |
+| Team automation coverage growth    | **+35% in 6 months**           |
+| UAT defect leakage reduction       | **30–50%**                     |
+| AI regression evaluation time      | **↓ 65%**                      |
+| LLM evaluation coverage            | **↑ 40–60%**                   |
+| Prompt test coverage               | **↑ 50%+**                     |
 
 ---
 
